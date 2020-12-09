@@ -1,0 +1,39 @@
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.scoreboardContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    margin: 50px;
+}
+
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin: 1em;
+}
+
+.scoreboardItem {
+    display: flex;
+    justify-content: center;
+
+    margin: 10px;
+}
+
+.button {
+    margin: 2em;
+    width: 120px;
+    height: 40px;
+
+    ;
+}
+
+.page {
+    background-color: pink;
+}

@@ -42,7 +42,7 @@ function game(humanChoice, compChoice) {
         winner.textContent = `Winner is ${ winner }!`;
         incrementScore(winner);
     }
-    //buttonSwitch();
+    buttonSwitch();
 }
 
 function determineWinner(humanChoice,compChoice){
